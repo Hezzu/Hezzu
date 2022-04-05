@@ -14,4 +14,4 @@ I like programing obviously but besides that im learning to draw.
 I love listening to music and my favourite "Genre" are nightcores, I also like to play games and my main game is League of Legends.  
 #### More will be added later when i will have more ideas
 ## 📊 Stats 📊
-![github stats](https://github-readme-stats.vercel.app/api?username=Hezzu&show_icons=true&count_private=true&theme=dracula)
+![github stats](https://github-readme-stats.vercel.app/api?username=Hezu&show_icons=true&count_private=true&theme=dracula)
