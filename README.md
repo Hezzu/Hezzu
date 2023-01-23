@@ -14,5 +14,3 @@ I mainly use **Kotlin**, **Java** and **Javascript** (Kotlin Supermacy because i
 I like programing obviously but besides that im learning to draw.  
 I love listening to music with huge Bias towards **Punkrock**, **Grunge**, **Rock** and "**Nightcores**", I also like to play games with my main games being **League of Legends**, **Dota2** and **Paladins**.  
 #### More will be added later when i will have more ideas
-## 📊 Stats 📊
-![github stats](https://github-readme-stats.vercel.app/api?username=Hezzu&show_icons=true&count_private=true&theme=dracula)
