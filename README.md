@@ -4,7 +4,7 @@
 A Newbie programer from Poland.  
 I attend Technical School with programming speciality.
 My grades are good when i actually bother to do something.  
-I know basics of multiple programming languages but i can fluently use only 3 + HTML and CSS
+I know basics of multiple programming languages but i can fluently use only 3 + HTML and CSS.
 Super Lazy yet determinated to do things when im motivated  
 Also a Weeb... Like a super weeb  
 ### 💬 Languages: 💬  
