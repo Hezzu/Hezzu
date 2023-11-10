@@ -1,16 +1,19 @@
 # ✨ Hezzu ✨
-**Discord: Hezzu#5117**
+**Discord: Hezzeus**
 ## 😎 About 😎
 A Newbie programer from Poland.  
-I attend Technical School with programming speciality.
-My grades are good when i actually bother to do something.  
-I know basics of multiple programming languages but i can fluently use only 3 + HTML and CSS. 
-Super Lazy yet determinated to do things when im motivated  
-Also a Weeb... Like a super weeb  
-### 💬 Languages: 💬  
-I mainly use **Kotlin**, **Java** and **Javascript** (Kotlin Supermacy because i love this language) with addition of **HTML** and **CSS** for websites, although i know basics of:  
-**C++**, **C#**, **Python**, **PHP**, **Pascal** (i started with this language)
-### 🖥️ Interests: 🖥️
-I like programing obviously but besides that im learning to draw.  
-I love listening to music with huge Bias towards **Punkrock**, **Grunge**, **Rock** and "**Nightcores**", I also like to play games with my main games being **League of Legends**, **Dota2** and **Paladins**.  
-#### More will be added later when i will have more ideas
+I attend Secondary School with programmin profile.  
+I know basics of some languages but due to my laziness i can mostly use Kotlin and JS with HTML and CSS. 
+I dont code on a daily basis but rather when i have motivation to do so, and my comits may be either every day or month apart.
+Also i like Anime. Im a Weeb.
+My interests consists of:
+Programming, Drawing, Music (Everything except for Rap), Games, Myths and Legends
+### 💬 Technologies: 💬  
+I primary use:
+**Kotlin**, **Java** and **Javascript** (Im in love with Kotlin... The Best of The Best), **HTML** and **CSS**.
+I know basics of:  
+**C++**, **C#**, **Python**, **PHP** (<-- This one suck), **Pascal** (First one i learned).
+I am currently learning:
+**Jetpack Compose**, **GDScript** (Pointless but im making a game in it), **Django**.
+I plan on learning:
+**Flutter**, **Svelte**, **Angular**, **Dart**.
