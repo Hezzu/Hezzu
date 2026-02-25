@@ -1,19 +1,23 @@
-# ✨ Hezzu ✨
-**Discord: Hezzeus**
-## 😎 About 😎
-A Newbie programer from Poland.  
-I've graduated from Secondary Technical School of Electrical Engineering in Gorzow Wielkopolski on programing profile.  
-I know basics of some programing languages but i mostly focused on increasing my expierence with Kotlin, JS with HTML and CSS. Currently learning Node.js and React 
-I've been on a developing Hiatus for quite a while now, Plan on getting back in the industry soon.
-Also i like Anime. Im a Weeb.
-My interests are:
-Programming, Drawing, Music, Games, Myths and Legends
-### 💬 Technologies: 💬  
-I primarly use:
-**Kotlin**, **Java**, **GDScript**, **Javascript**, **HTML** and **CSS**.
-I know basics of:  
-**C++**, **C#**, **Python**, **PHP** (<-- This one suck), **Pascal** (First one i learned).
-I am currently learning:
-**Jetpack Compose**, **React** and **Node.js**.
-I plan on learning:
-**Flutter**, **Svelte**, **Angular**, **Dart**.
+Hi, I'm Eryk (Hezzu) 👋
+
+I am an Aspiring Software Professional and Game Developer transitioning into the Quality Assurance space. My background is rooted in technical education as a Programmer, and I have a deep interest in ensuring software stability through rigorous testing and clean code.
+🛠 Technical Skills
+
+    Languages: Java, Kotlin, GDScript, HTML/CSS, JavaScript.
+
+    Learning: React, Node.js, C++, and Python.
+
+    Tools: Android Studio, IntelliJ, VS Code, MySQL.
+
+🕹 Featured Projects
+
+    PND Tower Defence: A strategy game developed with a focus on complex mechanics and pathfinding. I personally conducted all Manual QA, identifying and fixing logic edge-cases and performance bottlenecks.
+
+    Portfolio Website: A responsive site built with React to explore front-end architecture and cross-browser compatibility.
+
+🌍 Professional Background
+
+I recently spent a year working in an international environment in the Netherlands, where I utilized English (C1/C2) as my primary language for professional coordination. This experience strengthened my communication skills and my ability to work within diverse, high-pressure teams.
+🎯 My Goal
+
+I am currently seeking a Manual QA Internship where I can apply my developer’s mindset to help teams ship bug-free, high-quality user experiences.
