@@ -20,4 +20,4 @@ I am an Aspiring Software Professional and Game Developer transitioning into the
 I recently spent a year working in an international environment in the Netherlands, where I utilized English (C1/C2) as my primary language for professional coordination. This experience strengthened my communication skills and my ability to work within diverse, high-pressure teams.
 🎯 My Goal
 
-I am currently seeking a Manual QA Internship where I can apply my developer’s mindset to help teams ship bug-free, high-quality user experiences.
+I am currently seeking a software developer job, ideally in game development industry.
